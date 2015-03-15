@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You create metadata with empty content. You need store metadata and next changes, but there is not only one way to do it.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+you can keep not tracked files without deleting him. And you can make logical commit.
