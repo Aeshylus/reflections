@@ -15,3 +15,6 @@ You can save history and work separately on different versions of your project. 
 
 How do the diagrams help you visualize the branch structure?
 you can easily see commit parents and ancestors.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Branch that have changes from both branches. 
