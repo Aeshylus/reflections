@@ -5,3 +5,9 @@ When your work with other or you are working on multiply devices, or you want pu
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Every time when you update branch you must merge changes. Automatically merges can be harmful and manual merge to often.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork use want clone project on GitHub
+Clone - when you don't want change original.
+Branch -when you possible merge with original.
